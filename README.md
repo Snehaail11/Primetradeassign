@@ -22,7 +22,7 @@ To determine whether market sentiment correlates with Closed PnL and identify wh
 
 ---
 
-## 🧼 Data Cleaning
+## Data Cleaning
 
 - Removed 0 PnL rows (106,816 rows)
 - Removed NaN values (0 rows)
@@ -44,7 +44,7 @@ To determine whether market sentiment correlates with Closed PnL and identify wh
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - Weak positive correlation (**r = 0.0064**) between sentiment and Closed PnL.
 - Some emotional extremes (e.g., Extreme Greed) showed larger PnL fluctuations.
@@ -52,7 +52,7 @@ To determine whether market sentiment correlates with Closed PnL and identify wh
 
 ---
 
-## 📦 Libraries Used
+## Libraries Used
 
 - Python `pandas`
 - `matplotlib`
@@ -60,7 +60,7 @@ To determine whether market sentiment correlates with Closed PnL and identify wh
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 While market sentiment reflects the emotional state of the market, this analysis shows that it doesn’t strongly correlate with profitability. Traders should use sentiment in combination with other indicators for better decision-making.
 
